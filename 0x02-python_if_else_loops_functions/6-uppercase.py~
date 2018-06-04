@@ -1,0 +1,6 @@
+#!/usr/bin/python3
+uppercase = __import__('6-uppercase').uppercase
+
+str = 'Holberton'
+def uppercase(str):
+    print(ord(str))
